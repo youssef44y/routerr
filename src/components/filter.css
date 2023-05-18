@@ -1,0 +1,24 @@
+.centerr{
+ display: flex;
+justify-content: center;
+
+}
+.des{
+    
+    background-color: ;
+    font-size: 3rem;
+    color:#003049;
+    display: flex;
+    justify-content: center;
+    text-decoration: solid;
+    border: 3px solid;
+
+}
+.tit{
+    color: #03045e;
+    text-align: center;
+    font-size: 5rem;
+}
+body{
+    background-color: #d5bdaf;
+}
